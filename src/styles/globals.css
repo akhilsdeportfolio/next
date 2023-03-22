@@ -1,0 +1,11 @@
+*{
+  margin:0;
+}
+
+.site-layout-content{
+  height: 80vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
